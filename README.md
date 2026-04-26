@@ -35,6 +35,12 @@ Yeni teknolojiler öğrenmeyi ve pratik projeler geliştirmeyi seviyorum.
 
 ## 📫 Bana ulaş
 - GitHub: https://github.com/ADAMA1KONE  
+- LinkedIn: https://www.linkedin.com/in/adama-kone-59b5511b0  
+
+---
+
+## 🔗 Sosyal Bağlantılar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adama%20Kone-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adama-kone-59b5511b0)
 
 ---
 
