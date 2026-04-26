@@ -1,16 +1,44 @@
-## Hi there 👋
+# Merhaba 👋 Ben Adama Kone
 
-<!--
-**ADAMA1KONE/ADAMA1KONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Mühendisliği öğrencisiyim  
+📍 İstanbul, Türkiye  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+Yazılım geliştirme ve yapay zeka alanlarına ilgi duyan bir Bilgisayar Mühendisliği öğrencisiyim.  
+Yeni teknolojiler öğrenmeyi ve pratik projeler geliştirmeyi seviyorum.
+
+---
+
+## 💻 Kullandığım Teknolojiler
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🌱 Şu anda öğreniyorum
+- İleri seviye Java  
+- Veri Yapıları ve Algoritmalar  
+- Yapay Zeka  
+
+---
+
+## 🤝 İş birliği yapmak istiyorum
+- Yazılım projeleri  
+- Açık kaynak projeler  
+
+---
+
+## 📫 Bana ulaş
+- GitHub: https://github.com/ADAMA1KONE  
+
+---
+
+## 📊 GitHub İstatistikleri
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ADAMA1KONE&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADAMA1KONE&layout=compact&theme=tokyonight)
